@@ -1,6 +1,6 @@
 # Deployment Link
 
-Link - https://todomatic-react.netlify.app/
+Link - [link](https://todomatic-react.netlify.app/)
 
 # Getting Started with Create React App
 
